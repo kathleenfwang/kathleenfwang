@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kathleenfwang
-- 👀 I’m interested in frontend, backend, android development
-- 🌱 I’m currently learning backend with Java and Kotlin for Android 
+- 👀 I’m currently a Fullstack Developer/UI Lead at Snap with 3.5+ years of experience 
+- 🌱 I’m very passionate about developing reusable and scalable user interfaces that can increase developer efficiency 
 
 <!---
 kathleenfwang/kathleenfwang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
