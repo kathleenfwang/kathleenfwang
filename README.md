@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kathleenfwang
-- 👻 I’m currently a Fullstack Developer/UI Lead at Snap with 3.5+ years of experience 
+- 👻 I’m currently a Fullstack Developer/UI Lead at Snap with 4+ years of experience 
 - 💻 I’m very passionate about developing reusable and scalable user interfaces that can increase developer efficiency 
 
 <!---
